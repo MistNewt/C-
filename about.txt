@@ -1,3 +1,6 @@
 This is a C++ project made by me during my 12th assignment.
 It's not much but good for a start.
 All the codes are my own.
+
+And the game name is Angry Ball. It is like my first use of
+programming and graphics using C++. 
